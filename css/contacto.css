@@ -78,3 +78,22 @@ iframe{
 .map h1 {
     color: white; /* Cambia este valor al color de texto que desees */
 }
+
+.menu__link{
+    display: block;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    
+}
+.menu__link:hover{
+     background-color: #DE423A;
+}
+.menu__link--select{
+    background-color: #DE423A;
+    
+}
+.mostrar{
+    height: 210px;
+}
